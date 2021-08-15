@@ -1,0 +1,10 @@
+master - best
+dev    - development
+stable - public release
+beta  - 
+hotfix -
+
+login
+todo  - stable 
+dev notification
+stable
