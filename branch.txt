@@ -2,7 +2,7 @@ master - best
 dev    - development
 stable - public release
 beta  - 
-hotfix -
+hotfix - 
 
 login
 todo  - stable 
